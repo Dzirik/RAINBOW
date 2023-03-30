@@ -1,6 +1,7 @@
-# ds_ml_template
+# RAINBOW
 
-Repository template for data science and machine learning projects.
+This project serves as an example of my style of work. It is partial (re) implementation of reinforcement learning 
+RAINBOW algorithm.
 
 <a name="table-of-content"></a>
 # Table of Content
@@ -36,9 +37,6 @@ Repository template for data science and machine learning projects.
 
 The base for this project is my personal data science/machine learning repository that is publicly available on 
 my [GitHub](https://github.com/Dzirik/ds_ml_template) account.
-
-This project serves as an example of my style of work. It is partial (re) implementation of reinforcement learning 
-RAINBOW algorithm.
 
 The code is developed and tested using AI Gym environments. The main code is in the Jupyter notebooks stored as plane
 *py files in *notebooks/final/*.
